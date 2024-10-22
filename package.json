@@ -1,0 +1,24 @@
+{
+  "name": "dev-burguer",
+  "version": "1.0.0",
+  "description": "devburger",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": {
+    "name": "joabe junio",
+    "url": "https:/github.com/joabeclass"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0",
+    "nodemon": "^3.1.7",
+    "sucrase": "^3.35.0"
+  }
+}
